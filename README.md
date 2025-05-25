@@ -2,6 +2,9 @@
 
 This is a content-based movie recommendation system built using the TMDB 5000 dataset. It uses movie metadata like genres, cast, crew, and keywords to recommend similar movies.
 
+![Preview](screenshot.png)
+
+
 ## 🧠 Features
 
 - Content-based filtering using movie descriptions
